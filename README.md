@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**JackStuart7/JackStuart7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year **Cyber Security** student at Liverpool John Moores University, looking for a graduate role in cyber security.
 
-Here are some ideas to get you started:
+I'm interested in how systems break and how to stop them from breaking. I've conducted black-box penetration testing and built PHP/MySQL web apps in line with OWASP principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** PHP, SQL, JavaScript, HTML/CSS, Bash, PowerShell
+- **Security:** web app testing (SQL injection, XSS, CSRF), secure coding (OWASP)
+- **Tools:** Kali Linux, VMware, MySQL
+
+## 📚 Currently
+- Working towards **CompTIA Security+**
+- Final year project at LJMU
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/jackfstuart/)
